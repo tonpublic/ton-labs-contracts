@@ -1,0 +1,39 @@
+repo_name: tonpublic/ton-labs-contracts
+report_id: '087ae9aa328c1707708c34afb2ebd02a'
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-16T22:23:46+00:00'
+requested_by: IgorKoval
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/tonpublic/ton-labs-contracts
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tonpublic/ton-labs-contracts
+  detection_source: Repo Metadata
+- name: solidity
+  description: How people build software
+  website_url: https://ethereum.github.io/solidity/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source_url: https://github.com/tonpublic/ton-labs-contracts
+  detection_source: Repo Metadata
